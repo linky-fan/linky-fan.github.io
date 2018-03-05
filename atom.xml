@@ -1,25 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Orange</title>
+  <title>Orange&#39;s Avenue</title>
   
-  
+  <subtitle>所谓的长大，就是能分得清楚那些事该问，那些事不该问。</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://o.vivyfan.net/"/>
-  <updated>2018-03-02T14:19:01.904Z</updated>
-  <id>http://o.vivyfan.net/</id>
+  <link href="http://linky-fan.github.io/"/>
+  <updated>2018-03-05T09:52:29.000Z</updated>
+  <id>http://linky-fan.github.io/</id>
   
   <author>
-    <name>linky-fan</name>
+    <name>一吃一大碗的天字第n号</name>
     
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>一边是海水，一边是</title>
+    <link href="http://linky-fan.github.io/2018/03/05/%E4%B8%80%E8%BE%B9%E6%98%AF%E6%B5%B7%E6%B0%B4/"/>
+    <id>http://linky-fan.github.io/2018/03/05/一边是海水/</id>
+    <published>2018-03-05T09:20:04.000Z</published>
+    <updated>2018-03-05T09:52:29.000Z</updated>
+    
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p>&emsp;&emsp; 去完很有名的航母博物馆的一行人来到了今天行程的第二站–科罗拉多岛。对我们家小橙橙来说，沙子、卷起的裤腿、海边这些就足以满足了，当然如果再给他一把铲子就更完美了，没铲子在手的他用小手挖隧道，堆沙包也是其乐无穷的。<br><img src="https://farm5.staticflickr.com/4767/39740091244_2e6cd9b552_z.jpg" width="480" alt="IMG_20180214_131842B" data-height="640"><br><a id="more"></a></p><p>&emsp;&emsp;如果下一次安排行程，一定要在圣迭戈的好地方待上个五天，天天坐在沙滩边看着小屁孩挖挖沙子，看看潮起潮落，庸庸懒懒过上一天也不赖。当然在海边又有沙滩，拍几张愉快的照片也是必不可少的。<br><img src="https://farm5.staticflickr.com/4618/38640492380_7895e738e1_z.jpg" width="480" alt="IMG_20180215_123449_2R" data-height="640"></p><img src="https://farm5.staticflickr.com/4706/40407019502_54623b2159_z.jpg" width="480" alt="IMG_20180215_123343R" data-height="640"><img src="https://farm5.staticflickr.com/4744/40406831322_88e35564de_z.jpg" width="480" alt="IMG_20180215_123244R" data-height="640"><img src="https://farm5.staticflickr.com/4655/38640485690_b982ac47fa_z.jpg" width="480" alt="IMG_20180215_124218R" data-height="640"><blockquote><p>在此要感谢老婆大人，辛苦了很久做攻略，攻略做的就是好，2月14日在海边渡过也不错。<br><img src="https://farm5.staticflickr.com/4621/26579752658_38795ff6f8_z.jpg" width="480" alt="IMG_20180214_170808B" data-height="640"></p></blockquote>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&amp;emsp;&amp;emsp; 去完很有名的航母博物馆的一行人来到了今天行程的第二站–科罗拉多岛。对我们家小橙橙来说，沙子、卷起的裤腿、海边这些就足以满足了，当然如果再给他一把铲子就更完美了，没铲子在手的他用小手挖隧道，堆沙包也是其乐无穷的。&lt;br&gt;&lt;img src=&quot;https://farm5.staticflickr.com/4767/39740091244_2e6cd9b552_z.jpg&quot; width=&quot;480&quot; alt=&quot;IMG_20180214_131842B&quot; data-height=&quot;640&quot;&gt;&lt;br&gt;
+    
+    </summary>
+    
+      <category term="美国" scheme="http://linky-fan.github.io/categories/%E7%BE%8E%E5%9B%BD/"/>
+    
+    
+      <category term="游记 美国" scheme="http://linky-fan.github.io/tags/%E6%B8%B8%E8%AE%B0-%E7%BE%8E%E5%9B%BD/"/>
+    
+  </entry>
+  
+  <entry>
     <title>传说中的彼岸花</title>
-    <link href="http://o.vivyfan.net/2018/03/01/Lycoris_radiata/"/>
-    <id>http://o.vivyfan.net/2018/03/01/Lycoris_radiata/</id>
+    <link href="http://linky-fan.github.io/2018/03/01/Lycoris_radiata/"/>
+    <id>http://linky-fan.github.io/2018/03/01/Lycoris_radiata/</id>
     <published>2018-03-01T08:30:04.000Z</published>
     <updated>2018-03-02T14:19:01.904Z</updated>
     
@@ -36,17 +58,17 @@
     
     </summary>
     
-      <category term="感悟" scheme="http://o.vivyfan.net/categories/%E6%84%9F%E6%82%9F/"/>
+      <category term="感悟" scheme="http://linky-fan.github.io/categories/%E6%84%9F%E6%82%9F/"/>
     
     
-      <category term="杂文" scheme="http://o.vivyfan.net/tags/%E6%9D%82%E6%96%87/"/>
+      <category term="杂文" scheme="http://linky-fan.github.io/tags/%E6%9D%82%E6%96%87/"/>
     
   </entry>
   
   <entry>
     <title>火炬之殇</title>
-    <link href="http://o.vivyfan.net/2018/02/28/%E5%A4%A9%E5%A0%82%E9%87%8C%E7%9A%84%E7%81%AB%E7%82%AC/"/>
-    <id>http://o.vivyfan.net/2018/02/28/天堂里的火炬/</id>
+    <link href="http://linky-fan.github.io/2018/02/28/%E5%A4%A9%E5%A0%82%E9%87%8C%E7%9A%84%E7%81%AB%E7%82%AC/"/>
+    <id>http://linky-fan.github.io/2018/02/28/天堂里的火炬/</id>
     <published>2018-02-28T08:10:04.000Z</published>
     <updated>2018-03-02T14:24:30.486Z</updated>
     
@@ -59,17 +81,17 @@
     
     </summary>
     
-      <category term="感悟" scheme="http://o.vivyfan.net/categories/%E6%84%9F%E6%82%9F/"/>
+      <category term="感悟" scheme="http://linky-fan.github.io/categories/%E6%84%9F%E6%82%9F/"/>
     
     
-      <category term="杂文" scheme="http://o.vivyfan.net/tags/%E6%9D%82%E6%96%87/"/>
+      <category term="杂文" scheme="http://linky-fan.github.io/tags/%E6%9D%82%E6%96%87/"/>
     
   </entry>
   
   <entry>
     <title>再见，中途岛</title>
-    <link href="http://o.vivyfan.net/2018/02/27/%E5%86%8D%E8%A7%81%EF%BC%8C%E4%B8%AD%E9%80%94%E5%B2%9B/"/>
-    <id>http://o.vivyfan.net/2018/02/27/再见，中途岛/</id>
+    <link href="http://linky-fan.github.io/2018/02/27/%E5%86%8D%E8%A7%81%EF%BC%8C%E4%B8%AD%E9%80%94%E5%B2%9B/"/>
+    <id>http://linky-fan.github.io/2018/02/27/再见，中途岛/</id>
     <published>2018-02-27T06:20:04.000Z</published>
     <updated>2018-03-02T14:26:13.811Z</updated>
     
@@ -82,17 +104,17 @@
     
     </summary>
     
-      <category term="美国" scheme="http://o.vivyfan.net/categories/%E7%BE%8E%E5%9B%BD/"/>
+      <category term="美国" scheme="http://linky-fan.github.io/categories/%E7%BE%8E%E5%9B%BD/"/>
     
     
-      <category term="游记 美国" scheme="http://o.vivyfan.net/tags/%E6%B8%B8%E8%AE%B0-%E7%BE%8E%E5%9B%BD/"/>
+      <category term="游记 美国" scheme="http://linky-fan.github.io/tags/%E6%B8%B8%E8%AE%B0-%E7%BE%8E%E5%9B%BD/"/>
     
   </entry>
   
   <entry>
     <title>旅行的意义</title>
-    <link href="http://o.vivyfan.net/2018/02/26/%E6%97%85%E8%A1%8C%E7%9A%84%E6%84%8F%E4%B9%89/"/>
-    <id>http://o.vivyfan.net/2018/02/26/旅行的意义/</id>
+    <link href="http://linky-fan.github.io/2018/02/26/%E6%97%85%E8%A1%8C%E7%9A%84%E6%84%8F%E4%B9%89/"/>
+    <id>http://linky-fan.github.io/2018/02/26/旅行的意义/</id>
     <published>2018-02-26T08:40:54.000Z</published>
     <updated>2018-03-02T14:27:23.815Z</updated>
     
@@ -104,17 +126,17 @@
     
     </summary>
     
-      <category term="美国" scheme="http://o.vivyfan.net/categories/%E7%BE%8E%E5%9B%BD/"/>
+      <category term="美国" scheme="http://linky-fan.github.io/categories/%E7%BE%8E%E5%9B%BD/"/>
     
     
-      <category term="游记 美国" scheme="http://o.vivyfan.net/tags/%E6%B8%B8%E8%AE%B0-%E7%BE%8E%E5%9B%BD/"/>
+      <category term="游记 美国" scheme="http://linky-fan.github.io/tags/%E6%B8%B8%E8%AE%B0-%E7%BE%8E%E5%9B%BD/"/>
     
   </entry>
   
   <entry>
     <title>天空，姑娘和帅哥</title>
-    <link href="http://o.vivyfan.net/2018/02/24/%E5%A4%A9%E7%A9%BA%EF%BC%8C%E5%A7%91%E5%A8%98%E5%92%8C%E5%B8%85%E5%93%A5/"/>
-    <id>http://o.vivyfan.net/2018/02/24/天空，姑娘和帅哥/</id>
+    <link href="http://linky-fan.github.io/2018/02/24/%E5%A4%A9%E7%A9%BA%EF%BC%8C%E5%A7%91%E5%A8%98%E5%92%8C%E5%B8%85%E5%93%A5/"/>
+    <id>http://linky-fan.github.io/2018/02/24/天空，姑娘和帅哥/</id>
     <published>2018-02-24T08:40:54.000Z</published>
     <updated>2018-03-02T14:31:33.124Z</updated>
     
@@ -126,17 +148,17 @@
     
     </summary>
     
-      <category term="美国" scheme="http://o.vivyfan.net/categories/%E7%BE%8E%E5%9B%BD/"/>
+      <category term="美国" scheme="http://linky-fan.github.io/categories/%E7%BE%8E%E5%9B%BD/"/>
     
     
-      <category term="游记 美国" scheme="http://o.vivyfan.net/tags/%E6%B8%B8%E8%AE%B0-%E7%BE%8E%E5%9B%BD/"/>
+      <category term="游记 美国" scheme="http://linky-fan.github.io/tags/%E6%B8%B8%E8%AE%B0-%E7%BE%8E%E5%9B%BD/"/>
     
   </entry>
   
   <entry>
     <title>测试flickr</title>
-    <link href="http://o.vivyfan.net/2018/02/24/%E6%B5%8B%E8%AF%95flickr/"/>
-    <id>http://o.vivyfan.net/2018/02/24/测试flickr/</id>
+    <link href="http://linky-fan.github.io/2018/02/24/%E6%B5%8B%E8%AF%95flickr/"/>
+    <id>http://linky-fan.github.io/2018/02/24/测试flickr/</id>
     <published>2018-02-24T08:04:11.000Z</published>
     <updated>2018-03-02T14:32:41.082Z</updated>
     
@@ -151,10 +173,10 @@
     
     </summary>
     
-      <category term="测试" scheme="http://o.vivyfan.net/categories/%E6%B5%8B%E8%AF%95/"/>
+      <category term="测试" scheme="http://linky-fan.github.io/categories/%E6%B5%8B%E8%AF%95/"/>
     
     
-      <category term="测试" scheme="http://o.vivyfan.net/tags/%E6%B5%8B%E8%AF%95/"/>
+      <category term="测试" scheme="http://linky-fan.github.io/tags/%E6%B5%8B%E8%AF%95/"/>
     
   </entry>
   
