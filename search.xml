@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[Github和Coding同步部署hexo说明]]></title>
+    <url>%2F2018%2F03%2F08%2Fgitandcoding%2F</url>
+    <content type="text"><![CDATA[本文为&emsp;一吃一大碗的天字第n号&emsp;原创文章，欢迎转载，请在明显位置注明出处。&emsp;&emsp;自从看到了hexo这个能在github上部署blog的东西就喜欢的一塌糊涂，各种上谷歌，百度找资料，花了7-8天时间搞了起来，天天写blog的日子真的蛮好了，每天不写的什么就仿佛缺了点什么似的痒痒的不行。在这里分享一下这么多多天碰到的一些坎和一些翻过坎之后的经验。话不多说，先上些环境参数: hexo版本 123456789101112131415161718$ hexo -vhexo: 3.6.0hexo-cli: 1.1.0os: Linux 4.15.6-1-ARCH linux x64http_parser: 2.8.0node: 9.7.1v8: 6.2.414.46-node.20uv: 1.19.2zlib: 1.2.11ares: 1.13.0modules: 59nghttp2: 1.29.0napi: 2openssl: 1.0.2nicu: 60.2unicode: 10.0cldr: 32.0.1tz: 2017c 使用的NexT版本 NexT on github 12# Theme versionversion: 6.0.4 安装的npm module，使用flickr的原因是图都上传在flickr上，不想用国内的图床。 1234567891011121314151617181920212223242526272829303132333435$ cat package.json &#123; "name": "hexo-site", "version": "0.0.0", "private": true, "hexo": &#123; "version": "3.6.0" &#125;, "dependencies": &#123; "gulp": "^3.9.1", "gulp-htmlclean": "^2.7.20", "gulp-htmlmin": "^4.0.0", "gulp-minify-css": "^1.2.4", "hexo": "^3.6.0", "hexo-deployer-git": "^0.3.1", "hexo-filter-github-emojis": "^1.4.4", "hexo-footnotes": "^1.0.2", "hexo-generator-archive": "^0.1.4", "hexo-generator-category": "^0.1.3", "hexo-generator-feed": "^1.2.2", "hexo-generator-index-pin-top": "^0.2.2", "hexo-generator-json-content": "^3.0.1", "hexo-generator-searchdb": "^1.0.8", "hexo-generator-sitemap": "^1.2.0", "hexo-generator-tag": "^0.2.0", "hexo-renderer-ejs": "^0.3.0", "hexo-renderer-marked": "^0.3.0", "hexo-renderer-stylus": "^0.3.1", "hexo-server": "^0.2.0", "hexo-tag-aplayer": "^2.0.7", "hexo-tag-dplayer": "^0.3.1", "hexo-tag-flickr-extended": "0.0.3", "hexo-wordcount": "^3.0.2" &#125;&#125; 同时上传至github和coding，修改文件blog主目录下的_config.yml 12345678# Deployment## Docs: https://hexo.io/docs/deployment.htmldeploy: type: git repo: github: git@github.com:YOURNAME/YOURRES.github.io.git coding: git@git.coding.net:YOURNAME/YOURRES.git branch: master 未完待续。。。。。]]></content>
+      <categories>
+        <category>技术文档</category>
+      </categories>
+      <tags>
+        <tag>hexo</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[一边是海水，一边是阳光]]></title>
     <url>%2F2018%2F03%2F05%2F%E4%B8%80%E8%BE%B9%E6%98%AF%E6%B5%B7%E6%B0%B4%2F</url>
     <content type="text"><![CDATA[&emsp;&emsp; 去完很有名的航母博物馆的一行人来到了今天行程的第二站–科罗拉多岛。对我们家小橙橙来说，沙子、卷起的裤腿、海边这些就足以满足了，当然如果再给他一把铲子就更完美了，没铲子在手的他用小手挖隧道，堆沙包也是其乐无穷的。&emsp;&emsp;如果下一次安排行程，一定要在圣迭戈的好地方待上个五天，天天坐在沙滩边看着小屁孩挖挖沙子，看看潮起潮落，庸庸懒懒过上一天也不赖。当然在海边又有沙滩，拍几张愉快的照片也是必不可少的。 在此要感谢老婆大人，辛苦了很久做攻略，攻略做的就是好，2月14日在海边渡过也不错。]]></content>
