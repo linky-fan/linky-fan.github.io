@@ -454,11 +454,11 @@
 
       
         
-          <h4 id="本文为-emsp-一吃一大碗的天字第n号-emsp-原创文章，欢迎转载，请在明显位置注明出处。"><a href="#本文为-emsp-一吃一大碗的天字第n号-emsp-原创文章，欢迎转载，请在明显位置注明出处。" class="headerlink" title="本文为&emsp;一吃一大碗的天字第n号&emsp;原创文章，欢迎转载，请在明显位置注明出处。"></a>本文为&emsp;<em>一吃一大碗的天字第n号</em>&emsp;原创文章，欢迎转载，请在明显位置注明出处。</h4><p>&emsp;&emsp;自从看到了hexo这个能在github上部署blog的东西就喜欢的一塌糊涂，各种上谷歌，百度找资料，花了7-8天时间搞了起来，天天写blog的日子真的蛮好了，每天不写的什么就仿佛缺了点什么似的痒痒的不行。在这里分享一下这么多多天碰到的一些坎和一些翻过坎之后的经验。话不多说，先上些环境参数:</p>
+          <p>&emsp;&emsp;自从看到了hexo这个能在github上部署blog的东西就喜欢的一塌糊涂，各种上谷歌，百度找资料，花了7-8天时间搞了起来，天天写blog的日子真的蛮好了，每天不写的什么就仿佛缺了点什么似的痒痒的不行。在这里分享一下这么多多天碰到的一些坎和一些翻过坎之后的经验。话不多说，先上些环境参数:</p>
 <ul>
 <li>hexo版本</li>
 </ul>
-<figure class="highlight avrasm"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br></pre></td><td class="code"><pre><span class="line">$ hexo -v</span><br><span class="line"><span class="symbol">hexo:</span> <span class="number">3.6</span><span class="number">.0</span></span><br><span class="line">hexo-<span class="keyword">cli</span>: <span class="number">1.1</span><span class="number">.0</span></span><br><span class="line"><span class="symbol">os:</span> Linux <span class="number">4.15</span><span class="number">.6</span><span class="number">-1</span>-ARCH linux x64</span><br><span class="line"><span class="symbol">http_parser:</span> <span class="number">2.8</span><span class="number">.0</span></span><br><span class="line"><span class="symbol">node:</span> <span class="number">9.7</span><span class="number">.1</span></span><br><span class="line"><span class="symbol">v8:</span> <span class="number">6.2</span><span class="number">.414</span><span class="number">.46</span>-node<span class="number">.20</span></span><br><span class="line"><span class="symbol">uv:</span> <span class="number">1.19</span><span class="number">.2</span></span><br><span class="line"><span class="symbol">zlib:</span> <span class="number">1.2</span><span class="number">.11</span></span><br><span class="line"><span class="symbol">ares:</span> <span class="number">1.13</span><span class="number">.0</span></span><br><span class="line"><span class="symbol">modules:</span> <span class="number">59</span></span><br><span class="line"><span class="symbol">nghttp2:</span> <span class="number">1.29</span><span class="number">.0</span></span><br><span class="line"><span class="symbol">napi:</span> <span class="number">2</span></span><br><span class="line"><span class="symbol">openssl:</span> <span class="number">1.0</span><span class="number">.2</span>n</span><br><span class="line"><span class="symbol">icu:</span> <span class="number">60.2</span></span><br><span class="line"><span class="symbol">unicode:</span> <span class="number">10.0</span></span><br><span class="line"><span class="symbol">cldr:</span> <span class="number">32.0</span><span class="number">.1</span></span><br><span class="line"><span class="symbol">tz:</span> <span class="number">2017</span>c</span><br></pre></td></tr></table></figure>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br></pre></td><td class="code"><pre><span class="line">$ hexo -v</span><br><span class="line">hexo: 3.6.0</span><br><span class="line">hexo-cli: 1.1.0</span><br><span class="line">os: Linux 4.15.6-1-ARCH linux x64</span><br><span class="line">http_parser: 2.8.0</span><br><span class="line">node: 9.7.1</span><br><span class="line">v8: 6.2.414.46-node.20</span><br><span class="line">uv: 1.19.2</span><br><span class="line">zlib: 1.2.11</span><br><span class="line">ares: 1.13.0</span><br><span class="line">modules: 59</span><br><span class="line">nghttp2: 1.29.0</span><br><span class="line">napi: 2</span><br><span class="line">openssl: 1.0.2n</span><br><span class="line">icu: 60.2</span><br><span class="line">unicode: 10.0</span><br><span class="line">cldr: 32.0.1</span><br><span class="line">tz: 2017c</span><br></pre></td></tr></table></figure>
           <!--noindex-->
           <div class="post-button text-center">
             <a class="btn" href="/2018/03/08/gitandcoding/" rel="contents">
@@ -1870,6 +1870,19 @@
 
 
 
+
+
+<!-- LOCAL: You can save these files to your site and update links -->
+    
+        
+        <link rel="stylesheet" href="https://aimingoo.github.io/gitmint/style/default.css">
+        <script src="https://aimingoo.github.io/gitmint/dist/gitmint.browser.js"></script>
+    
+<!-- END LOCAL -->
+
+    
+
+    
 
 
 
