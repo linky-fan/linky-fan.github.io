@@ -4,11 +4,31 @@
 
     
   <url>
-    <loc>https://www.vivyfan.net/2018/03/08/gitandcoding/</loc>
-    <lastmod>2018-03-09T03:39:02.059Z</lastmod>
+    <loc>https://www.vivyfan.net/2018/03/12/gitandcoding2/</loc>
+    <lastmod>2018-03-12T10:06:40.061Z</lastmod>
     <data>
         <display>
-        <title>Github和Coding同步部署hexo说明</title>
+        <title>Github和Coding同步部署hexo说明(Seo篇)</title>
+        <pubTime>2018-03-12T08:50:14.000Z</pubTime>
+        
+        <tag>hexo</tag>
+         
+         
+           
+             
+              <breadCrumb title="技术文档" url="https://www.vivyfan.net/categories/%E6%8A%80%E6%9C%AF%E6%96%87%E6%A1%A3/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://www.vivyfan.net/2018/03/08/gitandcoding/</loc>
+    <lastmod>2018-03-12T10:01:00.682Z</lastmod>
+    <data>
+        <display>
+        <title>Github和Coding同步部署hexo说明(搭建篇)</title>
         <pubTime>2018-03-08T08:50:14.000Z</pubTime>
         
         <tag>hexo</tag>
